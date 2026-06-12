@@ -1,10 +1,8 @@
-#AI #gradschool #ReadingScheduler 
-
-# 📅 Flexible Semester Scheduler
+# Flexible Semester Scheduler
 
 This tool automatically converts a raw text syllabus into a color-coded, strategic Excel Gantt chart. It helps you visualize your semester by highlighting reading days, exam dates, and field trips.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 You need Python installed. You also need two specific libraries to generate the Excel file. Run this command in your terminal/command prompt:
@@ -21,7 +19,7 @@ Your folder should look like this:
 
 ---
 
-## 🛠️ How to Use (3 Steps)
+## How to Use (3 Steps)
 
 ### Step 1: Generate Your Data
 You don't need to write code. You just need to paste your syllabus into an AI (ChatGPT, Gemini, Claude) to format it for you.
@@ -43,7 +41,7 @@ MY SYLLABUS IS BELOW:
 ```
 
 <details>
-<summary>📋 <b>CLICK HERE TO COPY THE COMPILER PROMPT</b></summary>
+<summary> <b>CLICK HERE TO COPY THE COMPILER PROMPT</b></summary>
 
 ```text
 SYSTEM INSTRUCTION:
