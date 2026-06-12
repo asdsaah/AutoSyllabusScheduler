@@ -103,7 +103,7 @@ An Excel file (e.g., `Study_Schedule_2026.xlsx`) will appear in the folder.
 
 ---
 
-## 🎨 How to Read the Schedule
+## How to Read the Schedule
 * **Dark Colors / Bold Text:** These are Class Days (Lectures, Exams, Due Dates).
 * **Light Colors / No Text:** These are "Prep Days." They appear 1-3 days before a reading is due to visually block off study time.
 * **Field Trips/Exams:** These are bolded and do not generate "Prep Days."
